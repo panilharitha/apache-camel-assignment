@@ -1,0 +1,10 @@
+.classpath
+.gitignore
+.idea
+.iml
+build-local.bat
+build.bat
+/.metadata/
+.settings/
+.project
+*/target/*
